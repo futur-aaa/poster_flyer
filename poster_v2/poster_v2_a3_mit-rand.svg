@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.4858975"
-     inkscape:cx="429.10284"
-     inkscape:cy="1461.2135"
+     inkscape:cx="429.10285"
+     inkscape:cy="907.59882"
      inkscape:window-width="1342"
      inkscape:window-height="719"
      inkscape:window-x="10"
@@ -42,7 +42,7 @@
        id="page1"
        margin="3"
        bleed="0"
-       inkscape:export-filename="poster_v2_a3_mit-rand_300dpi.pdf"
+       inkscape:export-filename="poster_v2_a3_mit-rand_300dpi.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" /><inkscape:grid
        id="grid2"
@@ -381,18 +381,18 @@
          style="font-size:74.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-3-8-0-6-9-5);display:inline"><tspan
            x="393.57031"
            y="597.53042"
-           id="tspan25"><tspan
+           id="tspan53"><tspan
              style="font-weight:bold;font-size:85.3333px;font-family:'Jost*';-inkscape-font-specification:'Jost*, Bold'"
-             id="tspan23">futur</tspan></tspan></text><text
+             id="tspan52">futur</tspan></tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-23.245843,-52.58718)"
          id="text4-9-8-3-5-6-5-7"
          style="font-size:74.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-3-8-0-1-9-3-3);display:inline"><tspan
            x="393.57031"
            y="589.73831"
-           id="tspan27"><tspan
+           id="tspan55"><tspan
              style="font-weight:bold;font-size:16px;font-family:'Jost*';-inkscape-font-specification:'Jost*, Bold'"
-             id="tspan26">f   u   t   u   r   -   a   a   a   .   c   o   m</tspan></tspan></text><g
+             id="tspan54">f   u   t   u   r   -   a   a   a   .   c   o   m</tspan></tspan></text><g
          id="g2-0"
          transform="matrix(0.95544108,0,0,0.95544108,38.901031,-32.74311)"><path
            sodipodi:type="star"
@@ -454,9 +454,9 @@
        transform="matrix(3.6760851,0,0,3.6760851,-322.96382,-337.9328)"><tspan
          x="93.537567"
          y="122.76334"
-         id="tspan29"><tspan
+         id="tspan57"><tspan
            style="font-size:4.22249px"
-           id="tspan28">festival for patterns &amp; irritations
+           id="tspan56">festival for patterns &amp; irritations
 </tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.97263084,0,0,0.97263084,-224.96237,-114.77712)"
@@ -470,9 +470,9 @@
        transform="matrix(2.8849276,0,0,2.8849276,-112.19474,-221.50481)"><tspan
          x="93.537567"
          y="122.76334"
-         id="tspan31"><tspan
+         id="tspan59"><tspan
            style="font-size:5.38045px"
-           id="tspan30">Zwickau | DE
+           id="tspan58">Zwickau | DE
 </tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.40219px;line-height:1.25;font-family:'Jost*';-inkscape-font-specification:'Jost*, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:147.731;display:inline;fill:#e4007c;fill-opacity:1;stroke-width:0.264583"
@@ -482,27 +482,27 @@
        transform="matrix(2.8849276,0,0,2.8849276,-8.6567689,-240.80768)"><tspan
          x="93.537567"
          y="122.76334"
-         id="tspan39"><tspan
+         id="tspan61"><tspan
            style="font-size:5.38045px"
-           id="tspan38">2
+           id="tspan60">2
 </tspan></tspan><tspan
          x="93.537567"
          y="129.48891"
-         id="tspan41"><tspan
+         id="tspan63"><tspan
            style="font-size:5.38045px"
-           id="tspan40">0
+           id="tspan62">0
 </tspan></tspan><tspan
          x="93.537567"
          y="136.21447"
-         id="tspan43"><tspan
+         id="tspan65"><tspan
            style="font-size:5.38045px"
-           id="tspan42">2
+           id="tspan64">2
 </tspan></tspan><tspan
          x="93.537567"
          y="142.94002"
-         id="tspan45"><tspan
+         id="tspan67"><tspan
            style="font-size:5.38045px"
-           id="tspan44">4</tspan></tspan></text><text
+           id="tspan66">4</tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.40219px;line-height:1.25;font-family:'Jost*';-inkscape-font-specification:'Jost*, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:147.731;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
        x="130.41689"
@@ -511,51 +511,53 @@
        transform="matrix(2.8849276,0,0,2.8849276,-462.33943,-126.0925)"><tspan
          x="130.41689"
          y="122.76334"
-         id="tspan47"><tspan
+         id="tspan69"><tspan
            style="font-size:4.89132px;text-align:center;text-anchor:middle"
-           id="tspan46">alsolquema + @Napain
+           id="tspan68">alsolquema + napain
 </tspan></tspan><tspan
          x="130.41689"
          y="128.8775"
-         id="tspan49"><tspan
+         id="tspan71"><tspan
            style="font-size:4.89132px;text-align:center;text-anchor:middle"
-           id="tspan48">MrReason
+           id="tspan70">MrReason
 </tspan></tspan><tspan
          x="130.41689"
          y="134.99165"
-         id="tspan51"><tspan
+         id="tspan73"><tspan
            style="font-size:4.89132px;text-align:center;text-anchor:middle"
-           id="tspan50">Nabìr
+           id="tspan72">Nabìr
 </tspan></tspan><tspan
          x="130.41689"
          y="141.1058"
-         id="tspan53"><tspan
+         id="tspan75"><tspan
            style="font-size:4.89132px;text-align:center;text-anchor:middle"
-           id="tspan52">parkellipsen
+           id="tspan74">parkellipsen
 </tspan></tspan><tspan
          x="130.41689"
          y="147.21995"
-         id="tspan55"><tspan
+         id="tspan77"><tspan
            style="font-size:4.89132px;text-align:center;text-anchor:middle"
-           id="tspan54">Bertolt Meyer x Flor de Fuego
+           id="tspan76">Bertolt Meyer x Flor de Fuego
 </tspan></tspan><tspan
          x="130.41689"
          y="153.3341"
-         id="tspan57"><tspan
+         id="tspan80"><tspan
            style="font-size:4.89132px;text-align:center;text-anchor:middle"
-           id="tspan56">johan stuijt
+           id="tspan78">Numlooper</tspan><tspan
+           style="font-size:4.89132px;text-align:center;text-anchor:middle"
+           id="tspan79">
 </tspan></tspan><tspan
          x="130.41689"
          y="159.44825"
-         id="tspan59"><tspan
+         id="tspan82"><tspan
            style="font-size:4.89132px;text-align:center;text-anchor:middle"
-           id="tspan58">TraumaZone
+           id="tspan81">TraumaZone
 </tspan></tspan><tspan
          x="130.41689"
          y="165.5624"
-         id="tspan61"><tspan
+         id="tspan84"><tspan
            style="font-size:4.89132px;text-align:center;text-anchor:middle"
-           id="tspan60">Gencaster</tspan></tspan></text><text
+           id="tspan83">Gencaster</tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.71934px;line-height:1.25;font-family:'Jost*';-inkscape-font-specification:'Jost*, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:162.183;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        x="93.537567"
@@ -564,9 +566,9 @@
        transform="matrix(0.48551095,0,0,0.48551095,-24.408199,309.68307)"><tspan
          x="93.537567"
          y="122.76334"
-         id="tspan63"><tspan
+         id="tspan86"><tspan
            style="font-size:11.6258px"
-           id="tspan62">{partner and venues}
+           id="tspan85">{partner and venues}
 </tspan></tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:7.05556px;line-height:1.25;font-family:'Jost*';-inkscape-font-specification:'Jost*, Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:162.183;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
@@ -576,9 +578,9 @@
        transform="matrix(0.48551095,0,0,0.48551095,100.07803,309.68307)"><tspan
          x="93.537567"
          y="122.76334"
-         id="tspan65"><tspan
+         id="tspan88"><tspan
            style="font-size:11.6258px"
-           id="tspan64">{tickets}
+           id="tspan87">{tickets}
 </tspan></tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:7.05556px;line-height:1.25;font-family:'Jost*';-inkscape-font-specification:'Jost*, Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:162.183;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
@@ -588,9 +590,9 @@
        transform="matrix(0.48551095,0,0,0.48551095,-24.407486,341.3569)"><tspan
          x="93.537567"
          y="122.76334"
-         id="tspan67"><tspan
+         id="tspan90"><tspan
            style="font-size:11.6258px"
-           id="tspan66">{funded by}
+           id="tspan89">{funded by}
 </tspan></tspan></text><image
        width="386.61725"
        height="546.78729"
@@ -725,9 +727,9 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Jost*';-inkscape-font-specification:'Jost*, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline"><tspan
          x="-80"
          y="634.1038"
-         id="tspan69"><tspan
+         id="tspan92"><tspan
            dx="0 30.047974 30.047974 14.399963 30.719971 30.719971 14.399963 25.583954 19.727966 13.247955 15.456024 14.399963 24.432037 33.503998 15.456024 31.776031 32.11203 15.456024 14.399963 28.272034 29.567963 27.503998 27.600006 13.247986 27.600037 29.280029 14.399963 30.719971 30.719971 14.399963 30.047974"
-           id="tspan68">== &gt;&gt; Fri. 14.06. opening &lt;&lt; ==</tspan></tspan></text><text
+           id="tspan91">== &gt;&gt; Fri. 14.06. opening &lt;&lt; ==</tspan></tspan></text><text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text3"
@@ -738,18 +740,18 @@
        style="font-weight:bold;font-size:16px;line-height:1.25;font-family:'Jost*';-inkscape-font-specification:'Jost*, Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect20);display:inline;fill:#e4007c;fill-opacity:1"><tspan
          x="-584.04297"
          y="487.49703"
-         id="tspan71"><tspan
+         id="tspan94"><tspan
            style="font-weight:900;font-size:53.3333px;-inkscape-font-specification:'Jost*, Heavy'"
-           id="tspan70">= &gt;&gt; Sat. 15.06. algorave &lt;&lt; =</tspan></tspan></text><text
+           id="tspan93">= &gt;&gt; Sat. 15.06. algorave &lt;&lt; =</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,51.443004,24.390993)"
        id="text4"
        style="font-weight:bold;font-size:16px;line-height:1.25;font-family:'Jost*';-inkscape-font-specification:'Jost*, Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5);display:inline;fill:#e4007c;fill-opacity:1"><tspan
          x="-117.09961"
          y="487.49703"
-         id="tspan73"><tspan
+         id="tspan96"><tspan
            style="font-weight:900;font-size:53.3333px;-inkscape-font-specification:'Jost*, Heavy'"
-           id="tspan72">= &gt;&gt; Fri. 14.06. opening &lt;&lt; =</tspan></tspan></text><text
+           id="tspan95">= &gt;&gt; Fri. 14.06. opening &lt;&lt; =</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,347.26387,59.057098)"
        id="text21"
@@ -758,21 +760,21 @@
        y="0"><tspan
          x="-801.87988"
          y="361.54325"
-         id="tspan75"><tspan
+         id="tspan98"><tspan
            style="font-weight:900;font-size:48px;-inkscape-font-specification:'Jost*, Heavy';text-align:center;text-anchor:middle"
-           id="tspan74">
+           id="tspan97">
 </tspan></tspan><tspan
          x="-1175.4795"
          y="426.15914"
-         id="tspan77"><tspan
+         id="tspan100"><tspan
            style="font-weight:900;font-size:53.3333px;-inkscape-font-specification:'Jost*, Heavy'"
-           id="tspan76">bla punk (live coded poetry)
+           id="tspan99">bla punk (live coded poetry)
 </tspan></tspan><tspan
          x="-1096.4929"
          y="492.82577"
-         id="tspan79"><tspan
+         id="tspan102"><tspan
            style="font-weight:900;font-size:53.3333px;-inkscape-font-specification:'Jost*, Heavy'"
-           id="tspan78">Plantavibras collective</tspan></tspan></text><image
+           id="tspan101">Plantavibras collective</tspan></tspan></text><image
        width="32.792564"
        height="32.792564"
        preserveAspectRatio="none"
